@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hirobinsandhu
-- 👀 I’m interested in deep neural nets
+- 👀 I’m interested in full stack programming for real startup apps
 - 🌱 I’m currently trying to recreate Balaji's startup engineering Coursera course from pieces on the internet
 - 💞️ I’m looking to collaborate on deep neural network and AI learning
 - 📫 How to reach me - email is best!
