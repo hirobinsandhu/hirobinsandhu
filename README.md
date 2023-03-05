@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hirobinsandhu
 - 👀 I’m interested in deep neural nets
-- 🌱 I’m currently learning at Coursera: https://www.coursera.org/learn/neural-networks-deep-learning 
-- 💞️ I’m looking to collaborate on self directed learning on deep neural nets
+- 🌱 I’m currently trying to recreate Balaji's startup engineering Coursera course from pieces on the internet
+- 💞️ I’m looking to collaborate on deep neural network and AI learning
 - 📫 How to reach me - email is best!
 
 <!---
